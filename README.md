@@ -9,8 +9,8 @@ This dataset contains the characteristics of patients diagnosed with cancer. The
 * **diagnosis:** Indicates the type of cancer. This property can take the values "M" (Malignant - Benign) or "B" (Benign - Malignant).
 * **radius_mean, texture_mean, perimeter_mean, area_mean, smoothness_mean, compactness_mean, concavity_mean, concave points_mean:** Represents the mean values of the cancer's visual characteristics.
 
-* ## There are also several categorical features where patients in the dataset are labeled with numerical values.
-* ## Each sample contains the patient's unique ID, the cancer diagnosis and the average values of the cancer's visual characteristics.
+* There are also several categorical features where patients in the dataset are labeled with numerical values.
+* Each sample contains the patient's unique ID, the cancer diagnosis and the average values of the cancer's visual characteristics.
 
 ## This repository contains several machine learning projects focused on diagnosing cancer as malignant or benign based on visual features. Below are the detailed descriptions of the projects utilizing different algorithms:
 
