@@ -31,8 +31,8 @@ Support Vector Machines are powerful classification algorithms that aim to find 
 
 * Cancer Classification Using SVM:
   * Apply the SVM algorithm to classify tumors as malignant or benign.
-* Tune hyperparameters such as the kernel type and regularization parameter.
-* SVM's ability to create a clear margin of separation between classes makes it a strong candidate for this classification task, especially when dealing with complex and high-dimensional data.
+  * Tune hyperparameters such as the kernel type and regularization parameter.
+  * SVM's ability to create a clear margin of separation between classes makes it a strong candidate for this classification task, especially when dealing with complex and high-dimensional data.
 
 3. **Decision Tree**
 Decision Trees are a simple yet powerful method for classification tasks. They split the data based on feature values, creating a tree-like model of decisions. Each node represents a decision rule, and each leaf node represents a class label.
